@@ -1,6 +1,6 @@
 # 5-1요약  
 ---  
-###state variables
+###state variables  
 ![image](https://github.com/user-attachments/assets/9081bcfe-a781-4477-8134-579527a9b94f)  
 서로 다른 두 개의 state를 정의하고 1차 미분방정식들로 표현할 수 있다.  
 ex-1) spring mass damper system  
